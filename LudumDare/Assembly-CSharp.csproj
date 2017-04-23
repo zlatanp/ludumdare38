@@ -60,7 +60,7 @@
      <None Include="Assets\2D Platformer Controller\LICENSE02.txt" />
      <None Include="Assets\2D Platformer Controller\LICENSE.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/zlatan/Documents/GIT/ludum/LudumDare/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/zlatan/Documents/GIT/ludumdare/LudumDare/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
